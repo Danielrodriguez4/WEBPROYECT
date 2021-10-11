@@ -1,0 +1,7 @@
+.idea/*
+/**/**/**/*.pyc
+media/*
+locale/**/**/*.mo
+db.sqlite3
+
+
